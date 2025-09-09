@@ -1,7 +1,7 @@
 <!-- Header -->
 <h2 align="left">
   <strong>Antoine Salgas</strong> | 
-  <a href="https://scholar.google.com/citations?user=8t9YOHoAAAAJ&hl=en">Google Scholar</a>
+  <a href="https://scholar.google.com/citations?user=XNXj99EAAAAJ&hl=fr&oi=ao">Google Scholar</a>
 </h2>
 
 # 👋 Welcome to my GitHub
